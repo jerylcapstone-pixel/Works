@@ -1,0 +1,10 @@
+/* Custom styles */
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+/* Override Bootstrap for map */
+.card-body #map {
+    margin: 0;
+}
